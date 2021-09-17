@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width ="40" height = "40"></img>
 
 #### <strong>github states</strong>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arenas99&hide=contribs,prs&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arenas99&hide=contribs,prs&theme=material-palenight)
 
 ### <strong>Connect with me </strong>:
 
